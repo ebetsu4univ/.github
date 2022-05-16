@@ -6,7 +6,7 @@
   <a href="https://note.com/ebetsu_4u/">Note</a>
 </p>
 
-![E4Uのロゴが描かれたイラスト](../images/bg.png)
+![E4Uのロゴが描かれたイラスト](https://user-images.githubusercontent.com/90569347/168531944-328c5b4e-6b16-4b12-8fc3-a47e3b7d1cb0.png)
 
 ### 👓 E4Uとは
 
